@@ -2,7 +2,7 @@
 
 Το εργαλείο του διατροφολόγου: πελάτες, ραντεβού, μετρήσεις, εβδομαδιαία διατροφή με έλεγχο θρεπτικών, PDF για τον πελάτη.
 
-**Τελευταία έκδοση: 0.61** — [κατέβασε το αρχείο](https://raw.githubusercontent.com/stelliossteven-dev/metron-app/main/metron-v0.61.apk)
+**Τελευταία έκδοση: 0.62** — [κατέβασε το αρχείο](https://raw.githubusercontent.com/stelliossteven-dev/metron-app/main/metron-v0.62.apk)
 
 Δοκιμαστική έκδοση: οι τιμές των τροφίμων (αμερικανική βάση USDA) και οι υπολογισμοί θέλουν έλεγχο από διαιτολόγο πριν από πραγματική χρήση.
 
@@ -21,7 +21,7 @@
 
 ## Privacy policy
 
-*Last updated: 25 October 2026 (version 0.61). Ελληνικά παρακάτω.*
+*Last updated: 25 October 2026 (version 0.62). Ελληνικά παρακάτω.*
 
 **Metron (Μέτρον)** is an Android app for dietitians: clients, appointments, measurements, weekly diets and PDFs for the client.
 
@@ -38,7 +38,7 @@ The app is provided as is, without warranty.
 
 ## Πολιτική απορρήτου
 
-*Τελευταία ενημέρωση: 25 Οκτωβρίου 2026 (έκδοση 0.61).*
+*Τελευταία ενημέρωση: 25 Οκτωβρίου 2026 (έκδοση 0.62).*
 
 Το **Μέτρον (Metron)** είναι εφαρμογή Android για διατροφολόγους: πελάτες, ραντεβού, μετρήσεις, εβδομαδιαίες διατροφές και PDF για τον πελάτη.
 
