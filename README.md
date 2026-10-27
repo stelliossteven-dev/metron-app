@@ -2,7 +2,7 @@
 
 Το εργαλείο του διατροφολόγου: πελάτες, ραντεβού, μετρήσεις, εβδομαδιαία διατροφή με έλεγχο θρεπτικών, PDF για τον πελάτη.
 
-**Τελευταία έκδοση: 0.64** — [κατέβασε το αρχείο](https://raw.githubusercontent.com/stelliossteven-dev/metron-app/main/metron-v0.64.apk)
+**Τελευταία έκδοση: 0.65** — [κατέβασε το αρχείο](https://raw.githubusercontent.com/stelliossteven-dev/metron-app/main/metron-v0.65.apk)
 
 Για υπολογιστή Windows: [Metron Diet - Desktop](https://github.com/stelliossteven-dev/metron-desktop-app).
 
